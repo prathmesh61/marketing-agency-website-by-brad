@@ -1,0 +1,1 @@
+document.querySelector('.menu-btn').addEventListener('click', () => document.querySelector('.nav-item').classList.toggle('show'))
